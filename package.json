@@ -1,0 +1,22 @@
+{
+  "name": "neogcamp-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiheerTamkhane/neogCamp-CLI-app.git"
+  },
+  "author": "Miheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiheerTamkhane/neogCamp-CLI-app/issues"
+  },
+  "homepage": "https://github.com/MiheerTamkhane/neogCamp-CLI-app#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
